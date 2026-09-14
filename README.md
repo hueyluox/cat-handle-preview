@@ -10,3 +10,6 @@
 模型尚未实物试打，粘贴前需检查桶盖平面尺寸和把手间隙。
 
 在线预览：https://hueyluox.github.io/cat-handle-preview/
+
+新作：不许上班 · 双猫屏幕摆件
+- 页面：https://hueyluox.github.io/cat-handle-preview/monitor-cats/
